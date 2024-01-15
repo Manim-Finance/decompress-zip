@@ -1,5 +1,5 @@
 {
-  "name": "@manin-finance/decompress-zip",
+  "name": "@manim-finance/decompress-zip",
   "version": "1.0.0",
   "description": "Extract files from a ZIP archive",
   "main": "lib/decompress-zip.js",
