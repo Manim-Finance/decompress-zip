@@ -1,15 +1,21 @@
 {
-  "name": "decompress-zip",
-  "version": "0.3.2",
+  "name": "@manin-finance/decompress-zip",
+  "version": "1.0.0",
   "description": "Extract files from a ZIP archive",
   "main": "lib/decompress-zip.js",
   "scripts": {
     "test": "grunt test"
   },
   "bin": "bin/decompress-zip",
-  "repository": "bower/decompress-zip",
   "engines": {
     "node": ">=0.10.0"
+  },
+  "publishConfig": {
+    "@manim-finance:registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manim-Finance/decompress-zip.git"
   },
   "keywords": [
     "zip",
