@@ -40,14 +40,14 @@
     "touch": "0.0.3"
   },
   "devDependencies": {
-    "archiver": "^0.13.1",
+    "archiver": "^7.0.1",
     "chai": "^1.10.0",
     "coveralls": "^3.1.1",
     "fs-jetpack": "^5.1.0",
-    "grunt": "^1.5.3",
-    "grunt-cli": "^0.1.13",
+    "grunt": "^1.6.1",
+    "grunt-cli": "^1.4.3",
     "grunt-contrib-jshint": "^3.2.0",
-    "grunt-contrib-watch": "^0.6.1",
+    "grunt-contrib-watch": "^1.1.0",
     "grunt-exec": "^0.4.7",
     "grunt-simple-mocha": "^0.4.1",
     "istanbul": "^0.3.22",
